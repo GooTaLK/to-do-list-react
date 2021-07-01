@@ -1,0 +1,192 @@
+{
+  "tasks": [
+    {
+      "parent": "aaaaA",
+      "parent_slug": "aaaaa",
+      "name": "4444",
+      "bgColor": "#ee0",
+      "color": "black",
+      "description": "",
+      "date": "2021-05-07",
+      "checked": false,
+      "id": 1
+    },
+    {
+      "parent": "",
+      "parent_slug": "ads",
+      "name": "sssss",
+      "bgColor": "#e33",
+      "color": "black",
+      "description": "",
+      "date": "2021-05-04",
+      "checked": false,
+      "id": 2
+    },
+    {
+      "parent": "aaaaA",
+      "parent_slug": "aaaaa",
+      "name": "Not f",
+      "bgColor": "#e33",
+      "color": "black",
+      "description": "",
+      "date": "2021-05-07",
+      "checked": false,
+      "id": 4
+    },
+    {
+      "parent": "",
+      "parent_slug": "",
+      "name": "Solo",
+      "bgColor": "#04f",
+      "color": "white",
+      "description": "",
+      "date": "2021-05-06",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "parent": "OP again",
+      "parent_slug": "op_again",
+      "name": "Pala",
+      "bgColor": "#04f",
+      "color": "white",
+      "description": "Yoloo ooo oooo oooo oooo ooooooo oooooo ooo oooooo ooooooo ooooooo ooooooo oooooooooooooo ooooooooo oooooooooo...",
+      "date": "2021-05-17",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "parent": "",
+      "parent_slug": "",
+      "name": "asd",
+      "bgColor": "#04f",
+      "color": "white",
+      "description": "?",
+      "date": "2021-06-06",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "parent": "",
+      "parent_slug": "op_project",
+      "name": "OP",
+      "bgColor": "green",
+      "color": "black",
+      "description": "naaanana",
+      "date": "2021-05-07",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "parent": "Red parent",
+      "parent_slug": "red_parent",
+      "name": "Nice 322",
+      "bgColor": "#e33",
+      "color": "black",
+      "description": "",
+      "date": "2021-05-07",
+      "checked": false,
+      "id": 9
+    },
+    {
+      "parent": "aaaaA",
+      "parent_slug": "aaaaa",
+      "name": "Nada",
+      "bgColor": "#ee0",
+      "color": "black",
+      "description": "......................._________________________________________________________________________________________________________________",
+      "date": "2021-05-07",
+      "checked": false,
+      "id": 10
+    },
+    {
+      "parent": "OP again",
+      "parent_slug": "op_again",
+      "name": "A mimir de verdad :'v",
+      "bgColor": "green",
+      "color": "black",
+      "description": "Me van a gritar :(",
+      "date": "2021-05-07",
+      "checked": false,
+      "id": 11
+    },
+    {
+      "parent": "Red parent",
+      "parent_slug": "red_parent",
+      "name": "Para hoy día",
+      "bgColor": "#e33",
+      "color": "black",
+      "description": "Probando el Hoy.",
+      "date": "2021-05-16",
+      "checked": false,
+      "id": 12
+    },
+    {
+      "parent": "OP again",
+      "parent_slug": "op_again",
+      "name": "Para después",
+      "bgColor": "#ee0",
+      "color": "black",
+      "description": "Probando el Próximos.",
+      "date": "2021-05-20",
+      "checked": false,
+      "id": 13
+    },
+    {
+      "parent": "Nuevo PRJ",
+      "parent_slug": "nuevo_prj",
+      "name": "Hoy otra vez",
+      "bgColor": "#ee0",
+      "color": "black",
+      "description": "Soy nuevo, hola.",
+      "date": "2021-05-17",
+      "checked": false,
+      "id": 14
+    }
+  ],
+  "projects": [
+    {
+      "name": "aaaaA",
+      "task_id": [
+        1,
+        4,
+        10
+      ],
+      "slug": "aaaaa",
+      "id": 1
+    },
+    {
+      "name": "OP again",
+      "task_id": [
+        6,
+        11,
+        13
+      ],
+      "slug": "op_again",
+      "id": 2
+    },
+    {
+      "name": "Red parent",
+      "task_id": [
+        9,
+        12
+      ],
+      "slug": "red_parent",
+      "id": 3
+    },
+    {
+      "name": "Nuevo PRJ",
+      "task_id": [
+        14
+      ],
+      "slug": "nuevo_prj",
+      "id": 4
+    },
+    {
+      "name": "Mas sin tilde",
+      "task_id": [],
+      "slug": "mas_sin tilde",
+      "id": 5
+    }
+  ]
+}
